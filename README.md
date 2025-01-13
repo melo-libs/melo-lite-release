@@ -2,6 +2,8 @@
 
 Melo Lite is a minimalist Markdown editor that just works. It's designed with simplicity in mind, offering a clean and focused writing experience without unnecessary distractions. The application will remain forever free for all users. Currently, Melo Lite is maintained as a closed-source project.
 
+Visit [Melo Lite Website](https://lite.melolib.com) to learn more and download the app.
+
 This repository is used to track and manage issues and feature requests for the Melo Lite project.
 
 ## Issue Submission Guidelines
@@ -28,10 +30,3 @@ We provide standard issue templates to help you submit issues. Please use the ap
 - `question`: Usage questions
 - `help wanted`: Need assistance
 - `good first issue`: Suitable for newcomers
-
-## Contact
-
-For any other questions, please reach out through:
-
-- Submit an Issue on GitHub
-- [Project Homepage](https://github.com/your-username/melo-lite)

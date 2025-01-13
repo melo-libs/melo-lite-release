@@ -1,7 +1,5 @@
 # Melo Lite Issues Tracker
 
-## About Melo Lite
-
 Melo Lite is a minimalist Markdown editor that just works. It's designed with simplicity in mind, offering a clean and focused writing experience without unnecessary distractions. The application will remain forever free for all users. Currently, Melo Lite is maintained as a closed-source project.
 
 This repository is used to track and manage issues and feature requests for the Melo Lite project.

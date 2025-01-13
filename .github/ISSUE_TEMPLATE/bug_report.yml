@@ -46,10 +46,7 @@ body:
     attributes:
       label: Operating System
       options:
-        - Windows
         - macOS
-        - Linux
-        - Other
     validations:
       required: true
   - type: textarea

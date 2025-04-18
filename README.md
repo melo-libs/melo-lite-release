@@ -2,6 +2,8 @@
 
 Melo Lite: Where Your Ideas Find Their Tempo — a Markdown‑powered personal knowledge hub that organizes your thoughts in the most natural flow.
 
+![melo lite preview](./assets/preview.jpg)
+
 ## Key Features
 
 ### Your Folders, Your Workspace
